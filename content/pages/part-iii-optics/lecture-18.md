@@ -11,7 +11,26 @@ uid: 7d3296b3-f48f-d48a-bef1-24b6a4fa4305
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 43a0c77f-febf-5435-c8a8-ecf0661d3f16 >}}) |  {{< br >}}{{< br >}} *   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 43a0c77f-febf-5435-c8a8-ecf0661d3f16 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Wave plates
+*   Quarter wave plate
+*   Radiation
+*   Oscillating charge
+*   Dipole radiation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Wave Plates, Radiation
 -------------------------------------
@@ -35,11 +54,48 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Polarizing Filters and Light](https://www.scienceworld.ca/resource/polarizing-filters/) | [Polarizing Filters and Light]({{< baseurl >}}/resources/copy_of_lecture-18-video) and [Polarizing Filters and Light]({{< baseurl >}}/resources/copy2_of_lecture-18-video) |
-| [Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0) | [Polarization in a Sugar Solution]({{< baseurl >}}/resources/copy3_of_lecture-18-video) |
-| [Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0) | [Polarization of Radio Waves (Dipole Antenna)]({{< baseurl >}}/resources/copy4_of_lecture-18-video) and [Polarization of Radio Waves (Dipole Antenna)]({{< baseurl >}}/resources/copy5_of_lecture-18-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Polarizing Filters and Light](https://www.scienceworld.ca/resource/polarizing-filters/)
+{{< tdclose >}}
+{{< tdopen >}}
+[Polarizing Filters and Light]({{< baseurl >}}/resources/copy_of_lecture-18-video) and [Polarizing Filters and Light]({{< baseurl >}}/resources/copy2_of_lecture-18-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Polarization in a Sugar Solution]({{< baseurl >}}/resources/copy3_of_lecture-18-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Polarization of Radio Waves (Dipole Antenna)]({{< baseurl >}}/resources/copy4_of_lecture-18-video) and [Polarization of Radio Waves (Dipole Antenna)]({{< baseurl >}}/resources/copy5_of_lecture-18-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

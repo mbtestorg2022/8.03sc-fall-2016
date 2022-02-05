@@ -11,7 +11,22 @@ uid: 9e7f58a6-a530-8e13-cc42-a1813a4fbd62
 Lecture Topics
 --------------
 
-| ![]({{< resource_file d1a879b8-f068-df59-5beb-f1afe04e356b >}}) |  {{< br >}}{{< br >}} Final exam covers Lectures 1 through 23 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file d1a879b8-f068-df59-5beb-f1afe04e356b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final exam covers Lectures 1 through 23
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Review for Final Exam
 ------------------------------------

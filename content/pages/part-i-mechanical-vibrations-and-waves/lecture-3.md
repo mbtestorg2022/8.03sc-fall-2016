@@ -11,7 +11,25 @@ uid: f635ac92-fa89-71e3-6819-2518b537eb93
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 6c9b9fbd-2483-7ada-67f5-ddc0c9d6284b >}}) |  {{< br >}}{{< br >}} *   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 6c9b9fbd-2483-7ada-67f5-ddc0c9d6284b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Driven oscillators
+*   Transient phenomena
+*   Resonance
+*   Steady state solution
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Driven Oscillators, Transient Phenomena, Resonance
 -----------------------------------------------------------------
@@ -49,12 +67,57 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0) | [Driven Cart on Air Track]({{< baseurl >}}/resources/copy_of_lecture-3-video) |
-| Ball on String Pendulum | [Ball on String Pendulum]({{< baseurl >}}/resources/copy2_of_lecture-3-video) |
-| [Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0) | [Driven Mechanical Oscillator]({{< baseurl >}}/resources/copy3_of_lecture-3-video) |
-| [Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0) | [Breaking Glass with Sound]({{< baseurl >}}/resources/copy4_of_lecture-3-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Driven Cart on Air Track]({{< baseurl >}}/resources/copy_of_lecture-3-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ball on String Pendulum
+{{< tdclose >}}
+{{< tdopen >}}
+[Ball on String Pendulum]({{< baseurl >}}/resources/copy2_of_lecture-3-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Driven Mechanical Oscillator]({{< baseurl >}}/resources/copy3_of_lecture-3-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Breaking Glass with Sound]({{< baseurl >}}/resources/copy4_of_lecture-3-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

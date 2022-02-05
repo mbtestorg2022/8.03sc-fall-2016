@@ -11,7 +11,24 @@ uid: 4f5f49df-08e6-7313-a6c5-d113aba431c2
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 3819fcaf-fb7a-61a8-fe18-e8ee80bdfb64 >}}) |  {{< br >}}{{< br >}} *   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 3819fcaf-fb7a-61a8-fe18-e8ee80bdfb64 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Periodic motion
+*   Simple harmonic oscillators
+*   Hooke’s Law
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Periodic Oscillations, Harmonic Oscillators
 ----------------------------------------------------------
@@ -45,11 +62,48 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) | [Air Cart Between Springs]({{< baseurl >}}/resources/lecture-1-video-pop1) |
-| [Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0) | [Mass on a Spring]({{< baseurl >}}/resources/lecture-1-video-pop2) |
-| [Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0) | [Two Pendulums with Different Amplitudes]({{< baseurl >}}/resources/lecture-1-video-pop3) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Air Cart Between Springs]({{< baseurl >}}/resources/lecture-1-video-pop1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Mass on a Spring]({{< baseurl >}}/resources/lecture-1-video-pop2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Two Pendulums with Different Amplitudes]({{< baseurl >}}/resources/lecture-1-video-pop3)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

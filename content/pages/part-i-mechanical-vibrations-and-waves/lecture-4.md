@@ -11,7 +11,25 @@ uid: 05ac767b-4120-1817-3f89-1143fb7c00eb
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 241d43da-46e6-ba87-6f18-f5d9f1574018 >}}) |  {{< br >}}{{< br >}} *   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 241d43da-46e6-ba87-6f18-f5d9f1574018 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Coupled oscillators
+*   Normal modes
+*   Multibody system
+*   Transient behavior
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Coupled Oscillators, Normal Modes
 ------------------------------------------------
@@ -35,13 +53,66 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Double Pendulum](https://scienceworld.wolfram.com/physics/DoublePendulum.html) | [Double Pendulum]({{< baseurl >}}/resources/copy_of_lecture-4-video) |
-| [Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0) | [Weighted Hacksaw Blade]({{< baseurl >}}/resources/copy2_of_lecture-4-video) |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | [Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy3_of_lecture-4-video) |
-| [Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0) | [Two Pendulums Coupled with a Rod]({{< baseurl >}}/resources/copy4_of_lecture-4-video) |
-| [Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0) | [Wilberforce Pendulum]({{< baseurl >}}/resources/copy5_of_lecture-4-video) and [Wilberforce Pendulum]({{< baseurl >}}/resources/copy6_of_lecture-4-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Double Pendulum](https://scienceworld.wolfram.com/physics/DoublePendulum.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Double Pendulum]({{< baseurl >}}/resources/copy_of_lecture-4-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Weighted Hacksaw Blade]({{< baseurl >}}/resources/copy2_of_lecture-4-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy3_of_lecture-4-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Two Pendulums Coupled with a Rod]({{< baseurl >}}/resources/copy4_of_lecture-4-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Wilberforce Pendulum]({{< baseurl >}}/resources/copy5_of_lecture-4-video) and [Wilberforce Pendulum]({{< baseurl >}}/resources/copy6_of_lecture-4-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

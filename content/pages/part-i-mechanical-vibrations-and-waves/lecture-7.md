@@ -11,7 +11,24 @@ uid: aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 032e02f9-d29c-aa73-0e84-90785a6febef >}}) |  {{< br >}}{{< br >}} *   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 032e02f9-d29c-aa73-0e84-90785a6febef >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Symmetry
+*   Infinitely long system
+*   Sine waves
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Symmetry, Infinite Number of Coupled Oscillators
 ---------------------------------------------------------------
@@ -49,10 +66,39 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Bell Labs Wave Machine](https://physics.montana.edu/demonstrations/apparatus/3_oscillationsandwaves/demos/belllabswavemachine.html) | [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-7-video) |
-| [Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0) | [Vibrating Spring (Hand Driven)]({{< baseurl >}}/resources/copy2_of_lecture-7-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine](https://physics.montana.edu/demonstrations/apparatus/3_oscillationsandwaves/demos/belllabswavemachine.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-7-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Vibrating Spring (Hand Driven)]({{< baseurl >}}/resources/copy2_of_lecture-7-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

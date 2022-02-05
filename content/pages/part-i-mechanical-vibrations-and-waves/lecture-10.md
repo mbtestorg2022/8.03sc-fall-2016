@@ -11,7 +11,24 @@ uid: 0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 73b37037-e627-1b6b-a5b2-43eb3fcf8bfb >}}) |  {{< br >}}{{< br >}} *   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Traveling wave {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 73b37037-e627-1b6b-a5b2-43eb3fcf8bfb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Vibrating string
+*   Wave equation
+*   Traveling wave
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Traveling Waves
 ------------------------------
@@ -39,9 +56,30 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | [Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy_of_lecture-10-video), [Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy2_of_lecture-10-video), and [Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy3_of_lecture-10-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy_of_lecture-10-video), [Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy2_of_lecture-10-video), and [Bell Labs Wave Machine (Mismatched Impedance)]({{< baseurl >}}/resources/copy3_of_lecture-10-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

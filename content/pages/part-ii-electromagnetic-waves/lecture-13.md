@@ -11,7 +11,26 @@ uid: f4a13423-bdd7-a179-65ce-b0f19b5833d3
 Lecture Topics
 --------------
 
-| ![]({{< resource_file c35a283d-752d-5d8f-b877-8b14b5a11e3f >}}) |  {{< br >}}{{< br >}} *   Dispersion{{< br >}}*   Dispersive medium{{< br >}}*   Phase velocity{{< br >}}*   Group velocity{{< br >}}*   Beat phenomenon {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file c35a283d-752d-5d8f-b877-8b14b5a11e3f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dispersion
+*   Dispersive medium
+*   Phase velocity
+*   Group velocity
+*   Beat phenomenon
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Dispersive Medium, Phase Velocity, Group Velocity
 ----------------------------------------------------------------
@@ -47,9 +66,30 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-13-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-13-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

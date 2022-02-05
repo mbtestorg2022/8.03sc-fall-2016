@@ -11,7 +11,25 @@ uid: 95fe7702-7ee0-466a-a181-80c31fa40386
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 6d2adf5b-e2be-c36f-7de8-4878814dfc38 >}}) |  {{< br >}}{{< br >}} *   Quantum waves{{< br >}}*   Detection of gravitational waves{{< br >}}*   Interferometer{{< br >}}*   LIGO experiment {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 6d2adf5b-e2be-c36f-7de8-4878814dfc38 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Quantum waves
+*   Detection of gravitational waves
+*   Interferometer
+*   LIGO experiment
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Quantum Waves and Gravitational Waves
 ----------------------------------------------------

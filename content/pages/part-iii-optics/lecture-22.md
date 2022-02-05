@@ -11,7 +11,24 @@ uid: 3bf321ed-8bb2-61b1-4279-a2276aff6f51
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 22a8147d-7913-6d7b-0ef3-32e027414772 >}}) |  {{< br >}}{{< br >}} *   Huygens Principle{{< br >}}*   Diffraction{{< br >}}*   Resolution of a telescope {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 22a8147d-7913-6d7b-0ef3-32e027414772 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Huygens Principle
+*   Diffraction
+*   Resolution of a telescope
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Diffraction, Resolution
 --------------------------------------
@@ -41,9 +58,30 @@ Notes:
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | [Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy_of_lecture-22-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy_of_lecture-22-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

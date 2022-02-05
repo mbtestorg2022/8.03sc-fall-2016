@@ -11,7 +11,24 @@ uid: cf85feed-f452-d089-3365-f5c9eca3acb0
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 78b01029-9f43-5500-52d5-c27a9ca406b1 >}}) |  {{< br >}}{{< br >}} *   Coupled driven oscillator{{< br >}}*   Excitation{{< br >}}*   Resonance {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 78b01029-9f43-5500-52d5-c27a9ca406b1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Coupled driven oscillator
+*   Excitation
+*   Resonance
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Driven Oscillators, Resonance
 --------------------------------------------
@@ -37,9 +54,38 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | [Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy_of_lecture-6-video) |
-| [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | [Coupled Air Carts]({{< baseurl >}}/resources/copy2_of_lecture-6-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy_of_lecture-6-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Coupled Air Carts]({{< baseurl >}}/resources/copy2_of_lecture-6-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-5) | [Next]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-7) »

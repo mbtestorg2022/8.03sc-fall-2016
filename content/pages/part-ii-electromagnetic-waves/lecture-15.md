@@ -11,7 +11,24 @@ uid: 57be2ced-3a20-f9a7-fa7c-61386e73f839
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 4d7079ad-a384-5989-8867-9c63039f3f09 >}}) |  {{< br >}}{{< br >}} *   Uncertainty principle{{< br >}}*   2-dimensional waves{{< br >}}*   Pulsar {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 4d7079ad-a384-5989-8867-9c63039f3f09 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Uncertainty principle
+*   2-dimensional waves
+*   Pulsar
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Uncertainty Principle, 2D Waves
 ----------------------------------------------
@@ -45,9 +62,30 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Chladni Figures (Speaker Driven)](http://web.mit.edu/tsg/DemoPage/C/C38/C38.htm) | [Chladni Figures (Speaker Driven)]({{< baseurl >}}/resources/copy_of_lecture-15-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Chladni Figures (Speaker Driven)](http://web.mit.edu/tsg/DemoPage/C/C38/C38.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+[Chladni Figures (Speaker Driven)]({{< baseurl >}}/resources/copy_of_lecture-15-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------
