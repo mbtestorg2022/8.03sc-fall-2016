@@ -11,7 +11,26 @@ uid: de998eb5-074b-7df1-3d10-3d14ca8b2ced
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 991859eb-f148-08a8-79da-7c0fde7b8bb6 >}}) |  {{< br >}}{{< br >}} *   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 991859eb-f148-08a8-79da-7c0fde7b8bb6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Standing waves
+*   Vibrating string
+*   Wave equation
+*   Fourier series
+*   Fourier decomposition
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Wave Equation, Standing Waves, Fourier Series
 ------------------------------------------------------------
@@ -51,10 +70,39 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-9-video) and [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy2_of_lecture-9-video) |
-| [Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0) | [Rijke Tube]({{< baseurl >}}/resources/copy3_of_lecture-9-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-9-video) and [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy2_of_lecture-9-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Rijke Tube]({{< baseurl >}}/resources/copy3_of_lecture-9-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

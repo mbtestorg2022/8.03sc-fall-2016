@@ -11,7 +11,24 @@ uid: 9bc91332-1f00-f352-65f3-aede3364abeb
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 399a78df-be2d-4f60-a907-00df0d142614 >}}) |  {{< br >}}{{< br >}} *   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 399a78df-be2d-4f60-a907-00df0d142614 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Coupled oscillators
+*   Beat phenomena
+*   Normal axis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Beat Phenomena
 -----------------------------
@@ -45,11 +62,48 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | [Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy_of_lecture-5-video) and [Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy2_of_lecture-5-video) |
-| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | [Wave Beats]({{< baseurl >}}/resources/copy3_of_lecture-5-video) |
-| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | [Coupled Tunning Forks]({{< baseurl >}}/resources/copy4_of_lecture-5-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy_of_lecture-5-video) and [Two Rigid Pendulums Coupled with a Spring]({{< baseurl >}}/resources/copy2_of_lecture-5-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Wave Beats]({{< baseurl >}}/resources/copy3_of_lecture-5-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Coupled Tunning Forks]({{< baseurl >}}/resources/copy4_of_lecture-5-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

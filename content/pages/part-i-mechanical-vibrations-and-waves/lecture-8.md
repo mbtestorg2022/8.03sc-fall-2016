@@ -11,7 +11,25 @@ uid: ca53d2a9-7539-9f6f-97d2-cbedae117060
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 58ae3f19-dff2-b817-667b-56652200ab39 >}}) |  {{< br >}}{{< br >}} *   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Boundary conditions{{< br >}}*   Wave equations {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 58ae3f19-dff2-b817-667b-56652200ab39 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Symmetry
+*   Infinitely long system
+*   Boundary conditions
+*   Wave equations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Translation Symmetry
 -----------------------------------
@@ -37,9 +55,30 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | [Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-8-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Bell Labs Wave Machine]({{< baseurl >}}/resources/copy_of_lecture-8-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

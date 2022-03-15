@@ -11,7 +11,23 @@ uid: 421db63c-9b50-ba46-6bc2-9ae6df431a14
 Lecture Topics
 --------------
 
-| ![]({{< resource_file c5e75515-d280-6c73-da23-bb2d5f3bbc7a >}}) |  {{< br >}}{{< br >}} *   Soap bubble{{< br >}}*   Interference {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file c5e75515-d280-6c73-da23-bb2d5f3bbc7a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Soap bubble
+*   Interference
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Interference, Soap Bubble
 ----------------------------------------
@@ -53,10 +69,39 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0) | [Reflection off Soap Bubbles]({{< baseurl >}}/resources/copy_of_lecture-20-video) |
-| [Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0) | [Reflection off a Soap Film]({{< baseurl >}}/resources/copy2_of_lecture-20-video) and [Reflection off a Soap Film]({{< baseurl >}}/resources/copy3_of_lecture-20-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Reflection off Soap Bubbles]({{< baseurl >}}/resources/copy_of_lecture-20-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Reflection off a Soap Film]({{< baseurl >}}/resources/copy2_of_lecture-20-video) and [Reflection off a Soap Film]({{< baseurl >}}/resources/copy3_of_lecture-20-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

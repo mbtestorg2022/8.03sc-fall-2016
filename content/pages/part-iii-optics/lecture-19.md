@@ -11,7 +11,24 @@ uid: e069a26e-f953-d236-dc90-bcdcb2466c4e
 Lecture Topics
 --------------
 
-| ![]({{< resource_file cde5b72f-91b5-fd90-387f-89c1030110ed >}}) |  {{< br >}}{{< br >}} *   Waves in medium{{< br >}}*   Refraction index{{< br >}}*   Brewster’s angle {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file cde5b72f-91b5-fd90-387f-89c1030110ed >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Waves in medium
+*   Refraction index
+*   Brewster’s angle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Waves in Medium
 ------------------------------
@@ -40,9 +57,30 @@ Problem Set
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Brewster's Angle](https://www.rp-photonics.com/brewsters_angle.html) | [Brewster's Angle]({{< baseurl >}}/resources/copy_of_lecture-19-video) and [Brewster's Angle]({{< baseurl >}}/resources/copy2_of_lecture-19-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Brewster's Angle](https://www.rp-photonics.com/brewsters_angle.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Brewster's Angle]({{< baseurl >}}/resources/copy_of_lecture-19-video) and [Brewster's Angle]({{< baseurl >}}/resources/copy2_of_lecture-19-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

@@ -11,7 +11,26 @@ uid: 255269d4-70c4-990b-3edd-8effa5e8213a
 Lecture Topics
 --------------
 
-| ![]({{< resource_file ee1a3cb5-313f-6877-bcae-63215b0e5a2d >}}) |  {{< br >}}{{< br >}} *   Sound waves{{< br >}}*   Longitudinal wave{{< br >}}*   Wave equation{{< br >}}*   Speed of sound{{< br >}}*   Adiabatic process {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file ee1a3cb5-313f-6877-bcae-63215b0e5a2d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Sound waves
+*   Longitudinal wave
+*   Wave equation
+*   Speed of sound
+*   Adiabatic process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Sound Waves
 --------------------------
@@ -49,10 +68,39 @@ Problem Solving Help Video\*
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0) | [Standing Sound Waves in a Glass Tube]({{< baseurl >}}/resources/copy_of_lecture-11-video) |
-| [Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0) | [Helium Balloon]({{< baseurl >}}/resources/copy2_of_lecture-11-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Standing Sound Waves in a Glass Tube]({{< baseurl >}}/resources/copy_of_lecture-11-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Helium Balloon]({{< baseurl >}}/resources/copy2_of_lecture-11-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

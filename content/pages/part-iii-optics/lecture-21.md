@@ -11,7 +11,25 @@ uid: babd702c-f112-1939-a9e0-c02a1d617ddb
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 807fa454-46c1-646b-6b66-45350f2b02cb >}}) |  {{< br >}}{{< br >}} *   Phased radar{{< br >}}*   Single electron interference{{< br >}}*   Interference{{< br >}}*   Huygens Principle {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 807fa454-46c1-646b-6b66-45350f2b02cb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Phased radar
+*   Single electron interference
+*   Interference
+*   Huygens Principle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Phased Radar, Single Electron Interference
 ---------------------------------------------------------
@@ -41,10 +59,47 @@ Notes:
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0) | [Ripple Tank (Interference of Two Point Sources)]({{< baseurl >}}/resources/copy_of_lecture-21-video) |
-| [Moiré Pattern](https://mathworld.wolfram.com/MoirePattern.html) | [Moiré Pattern]({{< baseurl >}}/resources/copy2_of_lecture-21-video) |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | [Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy3_of_lecture-21-video) and [Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy4_of_lecture-21-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Ripple Tank (Interference of Two Point Sources)]({{< baseurl >}}/resources/copy_of_lecture-21-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Moiré Pattern](https://mathworld.wolfram.com/MoirePattern.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Moiré Pattern]({{< baseurl >}}/resources/copy2_of_lecture-21-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy3_of_lecture-21-video) and [Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy4_of_lecture-21-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-20) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-22) »

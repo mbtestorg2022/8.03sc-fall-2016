@@ -11,7 +11,26 @@ uid: c84dbaf3-57b2-e84b-1aa1-aa8cea794c86
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 18affe5d-8b55-327a-4811-a08c7a1052e1 >}}) |  {{< br >}}{{< br >}} *   Geometrical optics{{< br >}}*   2-dimensional waves{{< br >}}*   3-dimensional waves{{< br >}}*   Refraction law{{< br >}}*   Snell’s law {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 18affe5d-8b55-327a-4811-a08c7a1052e1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Geometrical optics
+*   2-dimensional waves
+*   3-dimensional waves
+*   Refraction law
+*   Snell’s law
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: 2D and 3D waves, Snell’s Law
 -------------------------------------------
@@ -37,10 +56,39 @@ Textbook Reading
 In-class Demonstrations
 -----------------------
 
-| HOW IT'S DONE | SEE IT IN THE LECTURE |
-| --- | --- |
-| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | [Chladni Figures (Speaker Driven)]({{< baseurl >}}/resources/copy_of_lecture-16-video) |
-| [Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0) | [Oscillating Soap Film]({{< baseurl >}}/resources/copy2_of_lecture-16-video) and [Oscillating Soap Film]({{< baseurl >}}/resources/copy3_of_lecture-16-video) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOW IT'S DONE
+{{< thclose >}}
+{{< thopen >}}
+SEE IT IN THE LECTURE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Chladni Figures (Speaker Driven)]({{< baseurl >}}/resources/copy_of_lecture-16-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0)
+{{< tdclose >}}
+{{< tdopen >}}
+[Oscillating Soap Film]({{< baseurl >}}/resources/copy2_of_lecture-16-video) and [Oscillating Soap Film]({{< baseurl >}}/resources/copy3_of_lecture-16-video)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------

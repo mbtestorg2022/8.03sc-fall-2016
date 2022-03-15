@@ -11,7 +11,26 @@ uid: 44d635cc-e8fd-d43a-e899-5f001ae3388c
 Lecture Topics
 --------------
 
-| ![]({{< resource_file a7477ca5-a6ab-a6bd-e7d0-70489f7f75a6 >}}) |  {{< br >}}{{< br >}} *   Maxwell’s equation{{< br >}}*   Light{{< br >}}*   Electromagnetic waves{{< br >}}*   Speed of light{{< br >}}*   Standing electromagnetic waves {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file a7477ca5-a6ab-a6bd-e7d0-70489f7f75a6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Maxwell’s equation
+*   Light
+*   Electromagnetic waves
+*   Speed of light
+*   Standing electromagnetic waves
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Maxwell's Equation, Electromagnetic Waves
 --------------------------------------------------------

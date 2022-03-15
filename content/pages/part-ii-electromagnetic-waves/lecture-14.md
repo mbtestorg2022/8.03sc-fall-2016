@@ -11,7 +11,25 @@ uid: c1476a90-000b-a128-f6d1-3a5e4049fafb
 Lecture Topics
 --------------
 
-| ![]({{< resource_file dc514809-178e-7e3a-9e02-d2f59891c6a6 >}}) |  {{< br >}}{{< br >}} *   Fourier transform{{< br >}}*   Amplitude modulation{{< br >}}*   AM radio{{< br >}}*   Communication {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file dc514809-178e-7e3a-9e02-d2f59891c6a6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Fourier transform
+*   Amplitude modulation
+*   AM radio
+*   Communication
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video: Fourier Transform, AM Radio
 ------------------------------------------
