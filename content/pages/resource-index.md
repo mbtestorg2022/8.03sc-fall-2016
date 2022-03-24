@@ -93,7 +93,7 @@ IN-CLASS DEMONSTRATIONS
 
 [Typed Notes for Lecture 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 1 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec1)
+[Handwritten Notes for Lecture 1 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec1)
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ IN-CLASS DEMONSTRATIONS
 
 [Typed Notes for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 2 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec2)
+[Handwritten Notes for Lecture 2 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec2)
 
 
 {{< tdclose >}}
@@ -169,9 +169,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 3 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec3)
+[Typed Notes for Lecture 3 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec3)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 3 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec3)
+[Handwritten Notes for Lecture 3 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec3)
 
 
 {{< tdclose >}}
@@ -209,7 +209,7 @@ None
 
 [Typed Notes for Lecture 4 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec4)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 4 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec4)
+[Handwritten Notes for Lecture 4 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec4)
 
 
 {{< tdclose >}}
@@ -249,9 +249,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec5)
+[Typed Notes for Lecture 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec5)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 5 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec5)
+[Handwritten Notes for Lecture 5 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec5)
 
 
 {{< tdclose >}}
@@ -287,9 +287,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 6 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec6)
+[Typed Notes for Lecture 6 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec6)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 6 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec6)
+[Handwritten Notes for Lecture 6 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec6)
 
 
 {{< tdclose >}}
@@ -329,9 +329,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 7 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec7)
+[Typed Notes for Lecture 7 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec7)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 7 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec7)
+[Handwritten Notes for Lecture 7 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec7)
 
 
 {{< tdclose >}}
@@ -375,9 +375,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 8 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec8)
+[Typed Notes for Lecture 8 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec8)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 8 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec8)
+[Handwritten Notes for Lecture 8 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec8)
 
 
 {{< tdclose >}}
@@ -411,9 +411,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 9 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec9)
+[Typed Notes for Lecture 9 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec9)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 9 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec9)
+[Handwritten Notes for Lecture 9 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec9)
 
 
 {{< tdclose >}}
@@ -475,11 +475,11 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 1 Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_exam1_formula)
+[Exam 1 Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_exam1_formula)
 
 [Practice Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+
 
 
 {{< tdclose >}}
@@ -495,9 +495,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 10 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_lec10)
+[Typed Notes for Lecture 10 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_lec10)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 10 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec10)
+[Handwritten Notes for Lecture 10 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec10)
 
 
 {{< tdclose >}}
@@ -533,9 +533,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec11)
+[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec11)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec11)
+[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec11)
 
 
 {{< tdclose >}}
@@ -611,9 +611,9 @@ IN-CLASS DEMONSTRATIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 12 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_lec12)
+[Typed Notes for Lecture 12 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_lec12)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 12 (PDF - 3MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec12)
+[Handwritten Notes for Lecture 12 (PDF - 3MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec12)
 
 
 {{< tdclose >}}
@@ -647,9 +647,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 13 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec13)
+[Typed Notes for Lecture 13 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec13)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 13 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec13)
+[Handwritten Notes for Lecture 13 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec13)
 
 
 {{< tdclose >}}
@@ -683,9 +683,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec14)
+[Typed Notes for Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec14)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 14 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec14)
+[Handwritten Notes for Lecture 14 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec14)
 
 
 {{< tdclose >}}
@@ -713,9 +713,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 15 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec15)
+[Typed Notes for Lecture 15 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec15)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 15 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec15)
+[Handwritten Notes for Lecture 15 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec15)
 
 
 {{< tdclose >}}
@@ -743,9 +743,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 16 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_lec16)
+[Typed Notes for Lecture 16 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_lec16)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 16 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec16)
+[Handwritten Notes for Lecture 16 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec16)
 
 
 {{< tdclose >}}
@@ -819,9 +819,9 @@ IN-CLASS DEMONSTRATIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 17 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec17)
+[Typed Notes for Lecture 17 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec17)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 17 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec17)
+[Handwritten Notes for Lecture 17 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec17)
 
 
 {{< tdclose >}}
@@ -879,11 +879,11 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 Formula Sheet (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_exam2_formula)
+[Exam 2 Formula Sheet (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_exam2_formula)
 
 [Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+
 
 
 {{< tdclose >}}
@@ -899,9 +899,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec18)
+[Typed Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec18)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec18)
+[Handwritten Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec18)
 
 
 {{< tdclose >}}
@@ -937,9 +937,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec19)
+[Typed Notes for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec19)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 19 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec19)
+[Handwritten Notes for Lecture 19 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec19)
 
 
 {{< tdclose >}}
@@ -969,7 +969,7 @@ None
 
 [Typed Notes for Lecture 20 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec20)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 20 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec20)
+[Handwritten Notes for Lecture 20 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec20)
 
 
 {{< tdclose >}}
@@ -1009,9 +1009,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 21 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec21)
+[Typed Notes for Lecture 21 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec21)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 21 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec21)
+[Handwritten Notes for Lecture 21 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec21)
 
 
 {{< tdclose >}}
@@ -1049,7 +1049,7 @@ None
 
 [Typed Notes for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec22)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 22 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec22)
+[Handwritten Notes for Lecture 22 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec22)
 
 
 {{< tdclose >}}
@@ -1077,9 +1077,9 @@ None
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 23 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec23)
+[Typed Notes for Lecture 23 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec23)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 23 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec23)
+[Handwritten Notes for Lecture 23 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec23)
 
 
 {{< tdclose >}}
@@ -1145,14 +1145,14 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_finalexam_formula)
+[Final Exam Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_finalexam_formula)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 [Practice Final Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 2 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam2)
+[Practice Final Exam 2 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam2)
 
 [Practice Final Exam 3 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam3)
 

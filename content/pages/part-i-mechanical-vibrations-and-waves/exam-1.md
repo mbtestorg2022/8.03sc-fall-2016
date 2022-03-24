@@ -41,8 +41,8 @@ What You Should Know:
 Practice Exam
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 1 Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_exam1_formula)  
+[Exam 1 Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_exam1_formula)  
 [Practice Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam1)  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+
 
 « [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-9) | [Next]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-10) »

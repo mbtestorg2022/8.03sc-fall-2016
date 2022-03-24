@@ -48,7 +48,7 @@ MIT students spend about 150-200 hours learning Vibrations and Waves in the on-c
 Required Textbook
 -----------------
 
-Georgi, Howard. _The Physics of Waves_. Benjamin Cummings, 1992. ISBN: 9780136656210. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Download the book (PDF - 5.5MB)]({{< baseurl >}}/resources/mit8_03scf16_textbook) (Courtesy of Howard Georgi. Used with permission.). [Free online version](http://www.people.fas.harvard.edu/~hgeorgi/new.htm) is also available on the author's website.
+Georgi, Howard. _The Physics of Waves_. Benjamin Cummings, 1992. ISBN: 9780136656210. [Download the book (PDF - 5.5MB)]({{< baseurl >}}/resources/mit8_03scf16_textbook) (Courtesy of Howard Georgi. Used with permission.). [Free online version](http://www.people.fas.harvard.edu/~hgeorgi/new.htm) is also available on the author's website.
 
 Suggested References
 --------------------

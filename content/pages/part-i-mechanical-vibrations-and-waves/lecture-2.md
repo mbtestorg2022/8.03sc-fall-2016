@@ -42,7 +42,7 @@ Lecture Notes
 
 [Typed Notes for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 2 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec2)
+[Handwritten Notes for Lecture 2 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec2)
 
 Textbook Reading
 ----------------

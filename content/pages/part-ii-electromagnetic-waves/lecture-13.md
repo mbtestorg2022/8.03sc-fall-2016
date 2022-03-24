@@ -42,9 +42,9 @@ Sending a square pulse as a basic communication tool is the main focus of this l
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 13 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec13)
+[Typed Notes for Lecture 13 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec13)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 13 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec13)
+[Handwritten Notes for Lecture 13 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec13)
 
 Textbook Reading
 ----------------

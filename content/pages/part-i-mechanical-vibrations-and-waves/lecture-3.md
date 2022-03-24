@@ -41,9 +41,9 @@ Driven damped oscillators is the focus of this lecture. Prof. Lee shows the tran
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 3 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec3)
+[Typed Notes for Lecture 3 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec3)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 3 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec3)
+[Handwritten Notes for Lecture 3 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec3)
 
 Textbook Reading
 ----------------

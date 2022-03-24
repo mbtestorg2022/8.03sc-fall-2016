@@ -40,9 +40,9 @@ The uncertainty principle is introduced in this lecture. Prof. Lee shows that th
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 15 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec15)
+[Typed Notes for Lecture 15 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec15)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 15 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec15)
+[Handwritten Notes for Lecture 15 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec15)
 
 Textbook Reading
 ----------------

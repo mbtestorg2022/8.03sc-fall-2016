@@ -42,9 +42,9 @@ Prof. Lee discusses the concept of linearly, circularly and elliptical polarized
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 17 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec17)
+[Typed Notes for Lecture 17 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec17)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 17 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec17)
+[Handwritten Notes for Lecture 17 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec17)
 
 Textbook Reading
 ----------------

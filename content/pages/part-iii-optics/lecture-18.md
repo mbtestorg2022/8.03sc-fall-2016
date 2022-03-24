@@ -42,9 +42,9 @@ How do we generate electromagnetic waves? Prof. Lee discusses the answer to this
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec18)
+[Typed Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec18)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec18)
+[Handwritten Notes for Lecture 18 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec18)
 
 Textbook Reading
 ----------------

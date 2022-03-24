@@ -29,10 +29,10 @@ Final exam covers Lectures 1 through 23, including [Exam 1]({{< baseurl >}}/page
 Practice Exams
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_finalexam_formula)  
+[Final Exam Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_03scf16_finalexam_formula)  
 [Practice Final Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam1)  
   
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 2 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam2)  
+[Practice Final Exam 2 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam2)  
   
 [Practice Final Exam 3 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam3)  
  

@@ -41,9 +41,9 @@ Prof. Lee introduces the concept of “boundary conditions” which enables us t
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 8 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec8)
+[Typed Notes for Lecture 8 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec8)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 8 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec8)
+[Handwritten Notes for Lecture 8 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec8)
 
 Textbook Reading
 ----------------

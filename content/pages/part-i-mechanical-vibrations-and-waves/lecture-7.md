@@ -40,9 +40,9 @@ The mathematical description of “symmetry” is introduced. Prof. Lee shows th
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 7 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec7)
+[Typed Notes for Lecture 7 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec7)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 7 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec7)
+[Handwritten Notes for Lecture 7 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec7)
 
 Textbook Reading
 ----------------

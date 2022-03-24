@@ -41,9 +41,9 @@ Prof. Lee discusses the big challenge of communication using dispersive medium. 
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec14)
+[Typed Notes for Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec14)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 14 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec14)
+[Handwritten Notes for Lecture 14 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec14)
 
 Textbook Reading
 ----------------

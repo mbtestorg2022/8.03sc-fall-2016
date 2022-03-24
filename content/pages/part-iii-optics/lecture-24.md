@@ -48,6 +48,6 @@ No readings
 Related Resources
 -----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
+[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
 
 « [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-23) | [Next]({{< baseurl >}}/pages/final-exam) »

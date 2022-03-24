@@ -40,9 +40,9 @@ Prof. Lee introduces the traveling wave solution of the wave equation. He also s
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 10 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_lec10)
+[Typed Notes for Lecture 10 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_lec10)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 10 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec10)
+[Handwritten Notes for Lecture 10 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec10)
 
 Textbook Reading
 ----------------

@@ -42,9 +42,9 @@ Prof. Lee shows the Electromagnetic wave equation can be derived by using Maxwel
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 12 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_lec12)
+[Typed Notes for Lecture 12 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_lec12)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 12 (PDF - 3MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec12)
+[Handwritten Notes for Lecture 12 (PDF - 3MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec12)
 
 Textbook Reading
 ----------------

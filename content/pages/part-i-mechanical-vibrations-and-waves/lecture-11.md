@@ -42,9 +42,9 @@ Sound wave, a longitudinal wave, is discussed in this lecture. Prof. Lee calcula
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec11)
+[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec11)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec11)
+[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec11)
 
 Textbook Reading
 ----------------

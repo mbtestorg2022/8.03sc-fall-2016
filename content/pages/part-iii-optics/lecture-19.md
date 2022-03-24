@@ -40,9 +40,9 @@ Prof. Lee discusses the propagation of light in the dielectric medium. He also s
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec19)
+[Typed Notes for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec19)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 19 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec19)
+[Handwritten Notes for Lecture 19 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec19)
 
 Textbook Reading
 ----------------

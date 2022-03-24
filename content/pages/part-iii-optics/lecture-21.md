@@ -41,9 +41,9 @@ Prof. Lee explains how phased radar works. He also discusses the implication of 
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 21 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec21)
+[Typed Notes for Lecture 21 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec21)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 21 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec21)
+[Handwritten Notes for Lecture 21 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec21)
 
 Textbook Reading
 ----------------

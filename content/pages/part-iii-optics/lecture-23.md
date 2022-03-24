@@ -41,9 +41,9 @@ Prof. Lee makes the connection between what we have learned so far and Quantum M
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 23 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec23)
+[Typed Notes for Lecture 23 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec23)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 23 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec23)
+[Handwritten Notes for Lecture 23 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec23)
 
 Textbook Reading
 ----------------

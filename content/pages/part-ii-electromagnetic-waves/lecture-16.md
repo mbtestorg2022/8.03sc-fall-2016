@@ -42,9 +42,9 @@ The main focus of the lecture is the mathematical description of 2D and 3D waves
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 16 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_lec16)
+[Typed Notes for Lecture 16 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_lec16)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 16 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec16)
+[Handwritten Notes for Lecture 16 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec16)
 
 Textbook Reading
 ----------------

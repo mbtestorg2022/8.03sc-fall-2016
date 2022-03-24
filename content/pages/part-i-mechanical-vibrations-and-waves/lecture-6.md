@@ -40,9 +40,9 @@ Driving force is introduced in the coupled system. Prof. Wyslouch solves the sys
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 6 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec6)
+[Typed Notes for Lecture 6 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec6)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 6 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec6)
+[Handwritten Notes for Lecture 6 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec6)
 
 Textbook Reading
 ----------------

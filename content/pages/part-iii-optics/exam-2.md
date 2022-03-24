@@ -43,8 +43,8 @@ What You Should Know:
 Practice Exam
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 Formula Sheet (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_exam2_formula)  
+[Exam 2 Formula Sheet (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_exam2_formula)  
 [Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2)  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+
 
 « [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-17) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-18) »

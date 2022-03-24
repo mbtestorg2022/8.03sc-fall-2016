@@ -42,9 +42,9 @@ The standing wave solution of the wave equation is the focus this lecture. Using
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 9 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec9)
+[Typed Notes for Lecture 9 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_03scf16_lec9)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 9 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec9)
+[Handwritten Notes for Lecture 9 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec9)
 
 Textbook Reading
 ----------------

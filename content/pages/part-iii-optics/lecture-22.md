@@ -42,7 +42,7 @@ Lecture Notes
 
 [Typed Notes for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec22)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 22 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec22)
+[Handwritten Notes for Lecture 22 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec22)
 
 Textbook Reading
 ----------------

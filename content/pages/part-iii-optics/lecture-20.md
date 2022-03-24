@@ -41,7 +41,7 @@ Lecture Notes
 
 [Typed Notes for Lecture 20 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec20)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 20 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec20)
+[Handwritten Notes for Lecture 20 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec20)
 
 Textbook Reading
 ----------------
