@@ -111,7 +111,7 @@ Video: [Air Conditioner Noise](https://www.youtube.com/watch?v=llYbVDzE6aw) by P
 
 Video: [Intro to Fourier Series and How to Calculate Them](https://www.youtube.com/watch?v=Cb3HpOf2V1g) by [Dr. Chris Tisdell](https://research.unsw.edu.au/people/associate-professor-chris-tisdell)
 
-Webpage: [Fourier Series: Basics](/courses/18-03sc-differential-equations-fall-2011/pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics) on [OCW’s 18.03SC Differential Equations course](/courses/18-03sc-differential-equations-fall-2011/)
+Webpage: [Fourier Series: Basics](/courses/18-03sc-differential-equations-fall-2011/pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics) on [OCW’s 18.03SC Differential Equations course](/courses/18-03sc-differential-equations-fall-2011)
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

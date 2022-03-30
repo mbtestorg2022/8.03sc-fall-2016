@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 resourcetype: Image
 title: guitar.jpg
 uid: 089e7a81-9653-2f69-7f57-f17017c87766

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 resourcetype: Image
 title: Lec4.jpg
 uid: b71ff065-694a-5991-1f1a-729e9651afdf

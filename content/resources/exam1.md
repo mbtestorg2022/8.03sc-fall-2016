@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 76628058-7df7-eac4-3ea1-3bd07d2c6250
 resourcetype: Image
 title: exam1.jpg
 uid: 85856cf0-1873-a5f1-18c1-43a183034dea
